@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 
 void main(){
-runApp(|Mandarina());
+runApp(MyApp());
 }
 
-class Mandarina extends StatelessWidget{
+class MyApp extends StatelessWidget{
   @override
   Widget build(BuildContext context){
     return MaterialApp();
